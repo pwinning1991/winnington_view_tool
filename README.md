@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install winnington_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```
+WinningtonViewTool::Renderer.copyright 'Philip Winnington' , 'All rights reserved'
+```
 
 ## Development
 
