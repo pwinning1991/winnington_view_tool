@@ -19,7 +19,7 @@ Or install it yourself as:
     $ gem install winnington_view_tool
 
 ## Usage
-```
+```ruby
 WinningtonViewTool::Renderer.copyright 'Philip Winnington' , 'All rights reserved'
 ```
 
